@@ -1,0 +1,49 @@
+Image 1:
+Dice Score:0.8361
+Precision:0.9965
+Recall:0.7415
+
+Image 2:
+Dice Score:0.8372
+Precision: 0.9994
+Recall:0.7667
+
+Image 3:
+Dice Score:0.8437
+Precision:0.9990 
+Recall:0.7926
+
+Image 4:
+Dice Score:0.7824
+Precision:0.9945
+Recall:0.6862
+
+Image 5:
+Dice Score:0.7383
+Precision:0.9985
+Recall:0.6090
+
+Image 6:
+Dice Score:0.7547
+Precision:0.9987
+Recall:0.6351
+
+Image 7:
+Dice Score:0.7856
+Precision:1.0000
+Recall:0.6680
+
+Image 8:
+Dice Score:0.8423
+Precision:0.9999
+Recall:0.7815
+
+Image 9:
+Dice Score:0.8159
+Precision:0.9999
+Recall:0.7569
+
+Image 10:
+Dice Score:0.8332
+Precision:0.9901
+Recall:0.7543
